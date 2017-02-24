@@ -1,0 +1,24 @@
+[submodule "omnibus-atools"]
+	path = omnibus-atools
+	url = https://github.com/yetu/omnibus-atools.git
+[submodule "omnibus_test_projet"]
+	path = omnibus_test_projet
+	url = https://github.com/ViktorOgnev/omnibus_test_projet.git
+[submodule "metasploit-omnibus"]
+	path = metasploit-omnibus
+	url = https://github.com/rapid7/metasploit-omnibus.git
+[submodule "scalarizr"]
+	path = scalarizr
+	url = https://github.com/Scalr/scalarizr.git
+[submodule "omnibus-groove-dl"]
+	path = omnibus-groove-dl
+	url = https://github.com/PierreRambaud/omnibus-groove-dl.git
+[submodule "hem-omnibus"]
+	path = hem-omnibus
+	url = https://github.com/inviqa/hem-omnibus.git
+[submodule "omnibus-twitter_ebooks"]
+	path = omnibus-twitter_ebooks
+	url = https://github.com/joshbrand/omnibus-twitter_ebooks.git
+[submodule "chef"]
+	path = chef
+	url = https://github.com/antantc19/chef.git
